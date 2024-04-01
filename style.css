@@ -1,0 +1,67 @@
+header {
+  background-color: #424874;
+}
+
+a {
+  font-size: larger !important;
+  color: #dcd6f7 !important;
+}
+@import url("https://fonts.googleapis.com/css2?family=Cutive&family=Dancing+Script:wght@700&family=Fredoka:wdth,wght@125,300&family=Junge&family=Madimi+One&family=Quicksand:wght@300..700&display=swap");
+body {
+  font-family: "Cutive", serif;
+  font-weight: 400 !important;
+  font-style: normal !important;
+}
+
+.ratan_tata {
+  width: 100%;
+  height: 100%;
+}
+.bg-image > div {
+  padding-left: 12%;
+  padding-top: 20%;
+}
+h4 {
+  color: #a6b1e1;
+  letter-spacing: 2px;
+}
+.heading {
+  font-size: 60px !important;
+  color: #dcd6f7 !important;
+}
+
+p {
+  border: none;
+  margin: 0%;
+  font-size: 20px;
+}
+.nav-link:hover {
+  color: #424874 !important;
+  background-color: #a6b1e1;
+  border-radius: 3%;
+}
+.bg-image {
+  background-image: url("./Images/ratan-tata-3300x1479-1-scaled1.jpg");
+  background-size: cover;
+  width: 100%; /* Adjust as needed */
+  height: 100vh;
+  background-position: center;
+  margin-top: 60px !important;
+}
+.card-body {
+  background-color: #dcd6f7;
+}
+ul {
+  text-align: left !important;
+}
+li {
+  font-size: large !important;
+}
+.more_info {
+  background-color: #424874;
+
+  color: #dcd6f7 !important;
+}
+a {
+  text-decoration: none;
+}
